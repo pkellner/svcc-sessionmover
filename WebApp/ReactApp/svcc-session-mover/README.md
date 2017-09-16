@@ -1,13 +1,3 @@
-Notes: Peter Kellner
-  https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f
-
-  
-
-
-react live templates
-https://github.com/minwe/jetbrains-react
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
